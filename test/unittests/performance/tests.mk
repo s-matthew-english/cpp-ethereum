@@ -63,7 +63,6 @@ mul64c: mul64c.c
 ops : \
 	nop.ran \
 	pop.ran \
-	popa.ran \
 	add64.ran \
 	add128.ran \
 	add256.ran \
